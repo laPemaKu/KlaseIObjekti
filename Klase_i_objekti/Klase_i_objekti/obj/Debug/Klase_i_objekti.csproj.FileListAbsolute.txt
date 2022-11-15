@@ -1,0 +1,8 @@
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\bin\Debug\Klase_i_objekti.exe.config
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\bin\Debug\Klase_i_objekti.exe
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\bin\Debug\Klase_i_objekti.pdb
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.AssemblyReference.cache
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.SuggestedBindingRedirects.cache
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\obj\Debug\Klase_i_objekti.csproj.CoreCompileInputs.cache
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\obj\Debug\Klase_i_objekti.exe
+C:\Users\LaPeM\source\repos\Klase_i_objekti\Klase_i_objekti\obj\Debug\Klase_i_objekti.pdb
